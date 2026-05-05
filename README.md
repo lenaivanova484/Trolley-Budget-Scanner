@@ -6,7 +6,7 @@ In traditional shopping environments, customers often rely on manual calculation
 
 ---
 
-## Problem Statement
+## Problem Statement 
 
 Most shopping systems do not provide real-time expense monitoring. Customers:
 
